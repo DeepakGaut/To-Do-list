@@ -7,7 +7,7 @@ Step wise instruction to run this project in your local environment.
 Open Git bash in your local machine and cd to working directory in which you want to clone this project. Now copy and paste following come in Git bash.
 
 ```bash
-git clone https://github.com/princegupta17/todolistforintern.git
+git clone https://github.com/DeepakGaut/todolist.git
 ```
 
 ## Step 2: -Installation
